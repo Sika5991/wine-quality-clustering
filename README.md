@@ -52,6 +52,9 @@ The KMeans analysis revealed three distinct clusters with meaningful groupings o
    git clone https://github.com/Sika5991/wine-quality-clustering.git
    cd wine-quality-clustering
 
+pip install -r requirements.txt
+
+jupyter notebook notebooks/wine_clustering.ipynb
 ---
 
 You can paste this into your `README.md` file directly. Let me know if you need more assistance!
