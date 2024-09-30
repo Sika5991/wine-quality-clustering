@@ -44,13 +44,3 @@ The dataset used for this project comes from [Kaggle's Wine Quality Dataset](htt
 ## Results
 
 The KMeans analysis revealed three distinct clusters with meaningful groupings of wines based on their chemical properties. These clusters highlight differences in wine acidity, alcohol content, and other factors that impact quality ratings. The analysis provided useful insights into how wines with different chemical compositions tend to fall into different quality ratings, which could help wine producers optimize their processes.
-
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sika5991/wine-quality-clustering.git
-   cd wine-quality-clustering
-   pip install -r requirements.txt
-   jupyter notebook notebooks/wine_clustering.ipynb
----
